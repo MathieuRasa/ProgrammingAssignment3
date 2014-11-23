@@ -1,7 +1,7 @@
 ProgrammingAssignment3
 ======================
 
-### Welcome!
+Welcome!
 
 This repo is used for the course project of Coursera class Getting and Cleaning Data. It contains 3 files: 
 * the README that you are currently reading
